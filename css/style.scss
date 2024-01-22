@@ -1,0 +1,18 @@
+@import 'reset';
+@import 'variables';
+@import 'mixin';
+@import 'header';
+@import 'main';
+@import 'darkmode';
+
+
+body {
+    background-image: url("img/meteoBase.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    min-height: 2000px;
+     
+}
+

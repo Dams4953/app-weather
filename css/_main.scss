@@ -1,0 +1,116 @@
+
+
+main {
+
+
+    h2 {
+        width: 100%;
+        font-family: Anton;
+        font-size: 28px;
+        color: $h2Base;
+        text-align: center;
+        padding: 25px;
+
+    }
+
+    .ville_titre {
+        font-family: Anton;
+        font-size: 35px;
+        color: $h2VilleBase;
+    }
+
+}
+
+div {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    .div_images {
+        width: 100%;
+
+        img {
+            border: 4px solid $BorderBase;
+            width: 200px;
+            margin-bottom: 15px;
+            border-radius: 22px;
+        }
+    }
+
+    .div_days {
+        display: flex;
+        flex-direction: column;
+        width: 150px;
+        height: 300px;
+        justify-content: center;
+        border-radius: 20px;
+        background-color: $divDaysBase;
+        margin: 5px;
+        border: solid 10px $BorderBase;
+        margin-left: 20px;
+        margin-bottom: 60px;
+       
+
+    }
+
+    .div_date {
+        font-size: 14px;
+        font-family: Anton;
+        color: $divDateBase;
+    }
+
+    .div_logo {
+        width: 100px;
+        border: none;
+    }
+
+    .div_temperature {
+        font-size: 35px;
+        font-family: Anton;
+        color: $divTemperatureBase;
+        margin: 20px;
+    }
+
+    .div_humidité {
+        font-size: 15px;
+        margin: 10px;
+        color: $divHumiditeBase;
+    }
+
+    .div_vent {
+        font-size: 15px;
+        color: $divVitesseVentBase;
+    }
+
+
+
+}
+
+
+
+.graph {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 150px;
+
+    @include media-maxwidth($screensize600) {
+        height: 350px;
+    }
+
+    .graph_canvas {
+
+        @include media-maxwidth($screensize600) {
+            height: 350px;
+            width: 584px;
+        }
+    }
+
+}

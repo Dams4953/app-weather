@@ -1,0 +1,48 @@
+//
+// base mode
+//
+
+// header
+$h1Base: rgba(49, 49, 49, 0.849);
+$inputBackgroundBase: rgb(49, 49, 49), rgba(163, 207, 224, 0.808);
+$inputBoxshadowBase: rgba(0, 0, 0, 0.075);
+
+//main
+$h2Base: rgb(24, 26, 27);
+$h2VilleBase:  rgb(182, 87, 87);
+$divDaysBase: rgba(112, 174, 195, 0.692);
+$divDateBase:  rgb(24, 26, 27);
+$divTemperatureBase:  rgb(24, 26, 27);
+$divHumiditeBase:   rgb(24, 26, 27);
+$divVitesseVentBase:  rgb(24, 26, 27);
+$imgVilleBase: rgb(24, 26, 27);
+$BorderBase: rgba(49, 49, 49, 0.849);
+
+
+
+//
+// dark mode
+//
+
+// header
+$h1Dark: rgb(255, 255, 255);
+$inputBackgroundDark: rgb(255, 255, 255), rgba(24, 93, 121, 0.49);
+$inputBoxshadowDark: rgba(255, 255, 255, 0.678);
+
+//main
+$h2Dark: rgb(255, 255, 255);
+$h2VilleDark: rgb(182, 87, 87);
+$divDaysDark: rgba(54, 96, 124, 0.37);
+$divDateDark: rgb(255, 255, 255);
+$divTemperatureDark: rgb(255, 255, 255);
+$divHumiditeDark:  rgb(255, 255, 255);
+$divVitesseVentDark:  rgb(255, 255, 255);
+$imgVilleDark: rgb(255, 255, 255);
+$BorderDark: rgba(255, 255, 255, 0.849);
+
+
+
+//
+// screen size
+//
+$screensize600: "600px";
