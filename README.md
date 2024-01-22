@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # weather-app
 
 Ce projet présente une application météo qui permet à l'utilisateur de rechercher une ville pour obtenir des informations sur la météo en temps réel ainsi que des prévisions pour les cinq jours à venir.
@@ -27,3 +28,6 @@ la conception graphique s'est avérée être plus compliqué que prévu.
 - API OpenWeatherMap pour les données météorologiques
 - API Unsplash pour les images de fond en fonction de la ville
 
+=======
+# app-weather
+>>>>>>> 952568374ec67d18ca6e48ed7f80f9651ae9a807
