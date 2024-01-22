@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>weather app</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=EB+Garamond&family=Playfair+Display:ital@1&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Playfair+Display:ital@1&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Anton&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@latest" defer></script>
+
+
+  <script type="module" crossorigin src="/assets/index-J1--9rEw.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-wq69sAD2.css">
+</head>
+
+<body>
+    <header>
+
+
+        <div class="interrupteur">
+            <input id="checkbox" name="checkbox" type="checkbox">
+            <label class="label" for="checkbox">
+            </label>
+        </div>
+        <div class="container">
+
+            <div class="container_titreInput">
+                <h1 class="logo">Weather app</h1>
+                <div class="input">
+                    <input type="text" list="datalist_ville" id="input_Ville" class="input_villeClass"
+                        placeholder="Enter a city" />
+                    <datalist id="datalist_ville">
+                        <option value="paris"></option>
+                        <option value="bruxelles"></option>
+                        <option value="london"></option>
+                        <option value="madrid"></option>
+                        <option value="new york"></option>
+                        <option value="rome"></option>
+                        <option value="sofia"></option>
+                        <option value="kinshasa"></option>
+                        <option value="tokyo"></option>
+                        <option value="séoul"></option>
+                    </datalist>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+
+        <div id="div">
+            
+        </div>
+
+
+        <div class="graph">
+            <canvas class="graph_canvas" id="myChart"></canvas>
+        </div>
+
+    </main>
+</body>
+
+</html>
