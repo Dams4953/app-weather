@@ -10,6 +10,11 @@ Mon projet permet de saisir le nom d'une ville et de recevoir des informations t
 
 https://dams4953.github.io/app-weather/
 
+### Captures d'écran
+
+![Capture d'écran de l'application](Téléchargements/weather1.png)
+
+
 ### dificultés rencontrées
 
 L'une des difficultés majeures auxquelles j'ai été confronté était de trouver des API adéquates, en particulier pour Unsplash. 
