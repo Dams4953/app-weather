@@ -1,4 +1,4 @@
-# app-weather
+# App-Weather
 
 Ce projet présente une application météo qui permet à l'utilisateur de rechercher une ville pour obtenir des informations sur la météo en temps réel ainsi que des prévisions pour les cinq jours à venir.
 
@@ -9,22 +9,22 @@ Ce projet présente une application météo qui permet à l'utilisateur de reche
 3. [Installation et Utilisation](#installation)
 4. [Ressources Utilisées](#langages)
 
-## 📌 détails du projet
+## 📌 Détails du Projet
 
-### description
+### Description
 
 Mon projet permet de saisir le nom d'une ville et de recevoir des informations telles que la température, l'humidité et la vitesse du vent pour les cinq prochains jours. En ajoutant une autre ville, il devient possible de comparer les données. De plus, l'application inclut un graphique qui affiche les températures des villes sélectionnées pour une visualisation plus claire.
 
 https://dams4953.github.io/app-weather/
 
-### Captures d'écran
+### Captures d'Écran
 ![Capture d'écran de l'application](weather1.png)
 ![Capture d'écran de l'application](weather2.png)
 
-## 📌 installation et utilisation
+## 📌 Installation et Utilisation
 
 ### Installation
-1. Clonez le repot.
+1. Clonez le repo.
 2. Accédez au répertoire du projet.
 3. Assurez-vous d'avoir Node.js et npm installés sur votre machine.
 4. Assurez-vous également d'avoir Vite installé. (npm install vite --save-dev)
@@ -38,20 +38,20 @@ https://dams4953.github.io/app-weather/
 - Les informations pour chaque ville ajoutée seront affichées sous forme de cartes.
 - Vous pouvez comparer les températures des différentes villes à l'aide du graphique.
     
-## 📌 ressources utilisées
+## 📌 Ressources Utilisées
 
-### langages
+### Langages
 
 [![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/)
 [![SCSS](https://img.shields.io/badge/SCSS-purple?style=flat-square&logo=sass)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)](https://www.javascript.com/)
 
-### api
+### Api
 
 - OpenWeatherMap pour les données météorologiques.
 - Unsplash pour les images de fond en fonction de la ville.
 
-### bibliothèques
+### Bibliothèques
 
 - ChartJS pour le graphique.
