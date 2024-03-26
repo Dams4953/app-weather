@@ -13,14 +13,14 @@ https://dams4953.github.io/app-weather/
 ### Captures d'écran
 ![Capture d'écran de l'application](weather1.png)
 ![Capture d'écran de l'application](weather2.png)
-![Capture d'écran de l'application](weather3.png)
 
-### dificultés rencontrées
+## 📌 Installation et utilisation
 
-L'une des difficultés majeures auxquelles j'ai été confronté était de trouver des API adéquates, en particulier pour Unsplash. 
-
-la conception graphique s'est avérée être plus compliqué que prévu.
-
+- Saisissez le nom d'une ville dans le champ de recherche et appuyez sur "Enter".
+- Vous verrez alors les informations météorologiques actuelles ainsi que les prévisions pour les cinq prochains jours.
+- Les informations pour chaque ville ajoutée seront affichées sous forme de cartes.
+- Vous pouvez comparer les températures des différentes villes à l'aide du graphique.
+    
 ## 📌 ressources utilisées
 
 ### langages
