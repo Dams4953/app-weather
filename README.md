@@ -11,9 +11,9 @@ Mon projet permet de saisir le nom d'une ville et de recevoir des informations t
 https://dams4953.github.io/app-weather/
 
 ### Captures d'écran
-
-![Capture d'écran de l'application](Téléchargements/weather1.png)
-
+![Capture d'écran de l'application](weather1.png)
+![Capture d'écran de l'application](weather2.png)
+![Capture d'écran de l'application](weather3.png)
 
 ### dificultés rencontrées
 
