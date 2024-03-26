@@ -28,8 +28,9 @@ https://dams4953.github.io/app-weather/
 2. Accédez au répertoire du projet.
 3. Assurez-vous d'avoir Node.js et npm installés sur votre machine.
 4. Assurez-vous également d'avoir Vite installé. (npm install vite --save-dev)
-5. Pour démarrer le serveur, utilisez 'npm run dev'.
-6. L'application sera disponible au localhost indiqué.
+5. Assurez-vous également d'avoir Sass installé. (npm install sass --save-dev)
+6. Pour démarrer le serveur, utilisez 'npm run dev'.
+7. L'application sera disponible au localhost indiqué.
 
 ### Utilisation
 - Saisissez le nom d'une ville dans le champ de recherche et appuyez sur "Enter".
