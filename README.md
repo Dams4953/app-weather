@@ -2,6 +2,20 @@
 
 Ce projet présente une application météo qui permet à l'utilisateur de rechercher une ville pour obtenir des informations sur la météo en temps réel ainsi que des prévisions pour les cinq jours à venir.
 
+### Sommaire
+
+1. [Description du Projet](#description)
+2. [Captures d'écran](#captures-décran)
+3. [Installation et Utilisation](#installation-et-utilisation)
+    - [Installation](#installation)
+    - [Utilisation](#utilisation)
+4. [Ressources Utilisées](#ressources-utilisées)
+    - [Langages](#langages)
+    - [API](#api)
+    - [Bibliothèques](#bibliothèques)
+
+
+
 ## 📌 détails du projet
 
 ### description
@@ -14,8 +28,17 @@ https://dams4953.github.io/app-weather/
 ![Capture d'écran de l'application](weather1.png)
 ![Capture d'écran de l'application](weather2.png)
 
-## 📌 Installation et utilisation
+## 📌 installation et utilisation
 
+### Installation
+1. Clonez le repot.
+2. Accédez au répertoire du projet.
+3. Assurez-vous d'avoir Node.js et npm installés sur votre machine.
+4. Assurez-vous également d'avoir Vite installé. (npm install vite --save-dev)
+5. Pour démarrer le serveur, utilisez 'npm run dev'.
+6. L'application sera disponible au localhost indiqué.
+
+### Utilisation
 - Saisissez le nom d'une ville dans le champ de recherche et appuyez sur "Enter".
 - Vous verrez alors les informations météorologiques actuelles ainsi que les prévisions pour les cinq prochains jours.
 - Les informations pour chaque ville ajoutée seront affichées sous forme de cartes.
