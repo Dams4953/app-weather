@@ -6,15 +6,8 @@ Ce projet présente une application météo qui permet à l'utilisateur de reche
 
 1. [Description du Projet](#description)
 2. [Captures d'écran](#captures-décran)
-3. [Installation et Utilisation](#installation-et-utilisation)
-    - [Installation](#installation)
-    - [Utilisation](#utilisation)
-4. [Ressources Utilisées](#ressources-utilisées)
-    - [Langages](#langages)
-    - [API](#api)
-    - [Bibliothèques](#bibliothèques)
-
-
+3. [Installation et Utilisation](#installation)
+4. [Ressources Utilisées](#langages)
 
 ## 📌 détails du projet
 
@@ -48,9 +41,10 @@ https://dams4953.github.io/app-weather/
 
 ### langages
 
-- HTML
-- CSS / SCSS
-- JAVASCRIPT
+[![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/)
+[![SCSS](https://img.shields.io/badge/SCSS-purple?style=flat-square&logo=sass)](https://sass-lang.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)](https://www.javascript.com/)
 
 ### api
 
