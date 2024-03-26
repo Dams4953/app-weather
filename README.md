@@ -1,4 +1,4 @@
-# weather-app
+# app-weather
 
 Ce projet présente une application météo qui permet à l'utilisateur de rechercher une ville pour obtenir des informations sur la météo en temps réel ainsi que des prévisions pour les cinq jours à venir.
 
